@@ -1,0 +1,109 @@
+global.meal_name = response.meal_name;
+        global.ingredients = response.ingredients;
+        global.image_url = response.image_url;
+        global.recipe = response.recipe;
+        global.meal_type = response.meal_type;
+        global.meal_video_url = response.meal_video_url;
+        global.meal_cooking_time = response.meal_cooking_time;
+        global.meal_difficulty = response.meal_difficulty;
+        global.meal_calories = response.meal_calories;
+        global.user_name = response.user_name;
+        global.user_avatar = response.user_avatar;
+        global.createdAt = response.createdAt;
+        global.updatedAt = response.updatedAt;
+    }
+
+
+    {
+  "_id": "62aec58893afe8555385cffc",
+  "meal_name": "mexican overloaded fries",
+  "image_url": "https://storage.googleapis.com/recipe-feed/allo_rajma.webp",
+  "ingredients": [
+    "2 1/2 cups frozen french fries",
+    "oil",
+    "salt",
+    "black pepper",
+    "1/4 cup chopped onions",
+    "1 tsp chopped garlic",
+    "1/4 cup chopped capsicum",
+    "1/2 cup blanched and chopped tomatoes",
+    "milk",
+    "cheese slices",
+    "chilly flakes",
+    "organo"
+  ],
+  "recipe": [
+    "Heat the oil for deep-frying in a deep non-stick pan and deep-fry the french fries a few at a time till they turn golden brown and crisp in colour. Drain on an absorbent paper.",
+    "Sprinkle a little salt and pepper evenly over it and toss well. Keep aside.",
+    "Heat the oil in a broad non-stick pan, add the onions and garlic and sauté on a medium flame for 1 minute.",
+    "Add the capsicum and sauté on a medium flame for 1 minute.",
+    "Add the tomatoes, chilli flakes, tomato ketchup and salt, mix well and cook on a medium flame for 1 minute, while stirring occasionally. Keep aside.",
+    "Combine all the ingredients in a broad non-stick pan, mix well and cook on a medium flame for 1 to 2 minutes or till the cheese melts, while stirring occasionally. Keep aside.",
+    "Place the deep-fried french fries on a serving plate and pour the prepared cheese sauce and salsa evenly over it.",
+    "Top it with chilli flakes and oregano evenly over it.",
+    "Serve immediately."
+  ],
+  "meal_type": "veg",
+  "meal_video_url": "{
+  "_id": "62aec58893afe8555385cffc",
+  "meal_name": "mexican overloaded fries",
+  "image_url": "https://storage.googleapis.com/recipe-feed/allo_rajma.webp",
+  "ingredients": [
+    "2 1/2 cups frozen french fries",
+    "oil",
+    "salt",
+    "black pepper",
+    "1/4 cup chopped onions",
+    "1 tsp chopped garlic",
+    "1/4 cup chopped capsicum",
+    "1/2 cup blanched and chopped tomatoes",
+    "milk",
+    "cheese slices",
+    "chilly flakes",
+    "organo"
+  ],
+  "recipe": [
+    "Heat the oil for deep-frying in a deep non-stick pan and deep-fry the french fries a few at a time till they turn golden brown and crisp in colour. Drain on an absorbent paper.",
+    "Sprinkle a little salt and pepper evenly over it and toss well. Keep aside.",
+    "Heat the oil in a broad non-stick pan, add the onions and garlic and sauté on a medium flame for 1 minute.",
+    "Add the capsicum and sauté on a medium flame for 1 minute.",
+    "Add the tomatoes, chilli flakes, tomato ketchup and salt, mix well and cook on a medium flame for 1 minute, while stirring occasionally. Keep aside.",
+    "Combine all the ingredients in a broad non-stick pan, mix well and cook on a medium flame for 1 to 2 minutes or till the cheese melts, while stirring occasionally. Keep aside.",
+    "Place the deep-fried french fries on a serving plate and pour the prepared cheese sauce and salsa evenly over it.",
+    "Top it with chilli flakes and oregano evenly over it.",
+    "Serve immediately."
+  ],
+  "meal_type": "veg",
+  "meal_video_url": "https://www.youtube.com/watch?v=Ucab3DlamsU",
+  "meal_cooking_time": "30 mins",
+  "meal_difficulty": "normal",
+  "meal_calories": "364 kcal",
+  "likes": [
+    "",
+    "62aebf74400f3dfc7dfbb35a",
+    "62d250c21ad1a022e3434a9b"
+  ],
+  "saves": [],
+  "user_id": "62ae162b457eecdfe7a47a83",
+  "user_name": "Bhumika Chauhan",
+  "user_avatar": "https://storage.googleapis.com/default-user-avatars/Artboard%201.png",
+  "createdAt": "2022-06-19T06:43:20.522Z",
+  "updatedAt": "2022-07-17T11:44:22.113Z",
+  "__v": 0
+}",
+  "meal_cooking_time": "30 mins",
+  "meal_difficulty": "normal",
+  "meal_calories": "364 kcal",
+  "likes": [
+    "",
+    "62aebf74400f3dfc7dfbb35a",
+    "62d250c21ad1a022e3434a9b"
+  ],
+  "saves": [],
+  "user_id": "62ae162b457eecdfe7a47a83",
+  "user_name": "Bhumika Chauhan",
+  "user_avatar": "https://storage.googleapis.com/default-user-avatars/Artboard%201.png",
+  "createdAt": "2022-06-19T06:43:20.522Z",
+  "updatedAt": "2022-07-17T11:44:22.113Z",
+  "__v": 0
+}
