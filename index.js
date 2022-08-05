@@ -18,7 +18,7 @@ const PORT = 3000;
     
 async function getWeather() {
     const weather = await fetch(
-            "https://cheftastic-2.el.r.appspot.com/api/post/get/62aec58893afe8555385cffc"    );
+            "https://cheftastic-2.el.r.appspot.com/api/post/get/62e9604900bf60c0c4966ce6"    );
         let response = await weather.json();
         console.log(response);
         global.meal_name = response.meal_name;
@@ -58,8 +58,25 @@ const server = http.createServer((req, res) => {
     .Nav{
        background: white;
        padding: 15px;
+       display: flex;
+       justify-content: space-between;
+       position: relative;
+       align-items: center;
     }
     
+    .navlist ul{
+        display: flex;
+    }
+
+    .navlist li{
+        list-style: none;
+        margin: 0rem 1rem;
+    }
+
+    .navlist li a{
+        text-decoration: none;
+    }
+
     .nav-content{
        
        font-size: 2rem;
@@ -263,6 +280,12 @@ const server = http.createServer((req, res) => {
         <nav class="Nav">
             <div class="Navbar" >
               <a class="nav-content" href="#">Chefesto</a>
+            </div>
+            <div class="navlist" >
+            <ul>
+                <li><a class="nav-list" href="privacy.html">Term</a></li>
+                <li><a class="nav-list" href="terms.html">Privacy</a></li>
+            </ul>
             </div>
         </nav>
         
